@@ -6,7 +6,3 @@ This repository contains Task 2 (Exploratory Data Analysis) completed during my 
 
 The main objective of this task is to perform an end-to-end exploratory analysis on the cleaned Titanic passenger dataset, compute summary statistics, and identify key demographic, economic, and behavioural patterns affecting passenger survival rates.
 
-### Organization
-- **Company:** SWYNEX Technologies
-- **Role:** Data Analyst Intern
-- **Task:** Exploratory Data Analysis & Visualization
